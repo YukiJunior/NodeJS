@@ -1,0 +1,6 @@
+como criar um arquivo ficticio rapido no power shell ou cmd laço
+
+código linha de comando 
+
+
+for /L %i in (1,1,32) do type file.txt>> file.txt
