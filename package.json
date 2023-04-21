@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "ola_Mundo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YukiJunior/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongo"
+  ],
+  "author": "Yuki Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YukiJunior/NodeJs/issues"
+  },
+  "homepage": "https://github.com/YukiJunior/NodeJs#readme"
+}
